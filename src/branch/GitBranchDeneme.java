@@ -3,8 +3,8 @@ package branch;
 public class GitBranchDeneme {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("Feature banch 1. satir");
+		System.out.println("Feature banch 2. satir");
 	}
 
 }
