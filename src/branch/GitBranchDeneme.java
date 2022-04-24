@@ -11,6 +11,7 @@ public class GitBranchDeneme {
 		System.out.println("Featrede calis git e gonder onrdan main e ekle");
 		System.out.println("Main githubdan tekrar al");
 		System.out.println("Tekrar calismaya devam et");
+		System.out.println("Feature yeni satir ekledik bilgisayardan");
 
 		
 
